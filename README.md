@@ -1,5 +1,4 @@
 # Riyadh-Hospital-Admissions-Dataset-2020-2024-
-# Riyadh Hospital Admissions Dashboard (2020–2024)
 
 This Power BI dashboard provides comprehensive insights into hospital admissions data for Riyadh, Saudi Arabia, from 2020 to 2024. It offers a detailed analysis of cardiorespiratory conditions, hospital performance, patient demographics, and temporal trends, making it a useful tool for healthcare policy, resource planning, and epidemiological studies.
 
